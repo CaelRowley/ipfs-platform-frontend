@@ -1,7 +1,7 @@
-import {
-  changeHomeText
-} from './home-actions';
+import { changeHomeText } from './home-actions';
+import ipfsActions from './ipfs-actions';
 
 export {
-  changeHomeText
+  changeHomeText,
+  ipfsActions
 }
